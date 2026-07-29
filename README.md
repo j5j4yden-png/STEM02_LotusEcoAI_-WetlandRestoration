@@ -31,8 +31,8 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 
 *Students begin documenting their team project from this point forward. Replace placeholder brackets `[...]` with your team's actual information.*
 
-## 🚀 1. STARTUP NAME: [Insert Team's Startup Name Here]
-* **Slogan:** "[Insert an inspiring project slogan]"
+## 🚀 1. STARTUP NAME: [Lotus Eco AI]
+* **Slogan:** "[Restoring Waters. Reclaiming Futures.]"
 * **Class:** [STEM.02.26]
 
 ### 👥 Co-Founding Team (5 Core Roles - 5 Pillars of Synergy)
@@ -45,7 +45,7 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 3. **[Student 3 Full Name]** - **Technology Architect:**
 * **Identity Image / Profile Picture:** [Insert Technology Architect's profile picture or avatar here, or use markdown: ![Architect Name](image_url)]
 * **Responsibilities:** [e.g., Designing and executing the technical architecture (AI, Robotics, Drones, IoT, etc.).]
-4. **[Student 4 Full Name]** - **UX/Experience Designer:**
+4. **[Đỗ Lê Thục Linh]** - **UX/Experience Designer:**
 * **Identity Image / Profile Picture:** [Insert UX Designer's profile picture or avatar here, or use markdown: ![Designer Name](image_url)]
 * **Responsibilities:** [e.g., In charge of conceptual drawings, application user interfaces, and slide deck visualization.]
 5. **[Student 5 Full Name]** - **Venture Investor:**
@@ -54,10 +54,10 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 
 ---
 ## ⚠️ 2. PROBLEM STATEMENT & SYSTEMS THINKING ANALYSIS
-* **Core Problem Statement:** [e.g., Chronic traffic congestion and carbon emission crises in major metropolitan areas].
+* **Core Problem Statement:** [Degradation and loss of function in wetland ecosystems caused by severe water pollution.].
 * **Cause-and-Effect Deep Dive:**
-  * *Root Causes:* [e.g., Low public transit adoption / Absence of smart traffic signaling systems / Exponential growth in private vehicle density...]
-  * *Direct Consequences:* [e.g., Severe gridlocks / Critical air pollution / High urban stress and decayed quality of life...]
+  * *Root Causes:* [Aricultural runoff containing excess nitrogen and phosphorus from synthetic fertilizers / Industrial discharge of untreated wastewater containing heavy metals and synthetic chemicals / Urban stormwater runoff sweeping petroleum, heavy metals, road salts, and trash into tributaries / Inadequate sewage infrastructure leading to raw sewage overflows, septic failures, and direct trash dumping.]
+  * *Direct Consequences:* [Eutrophication & "Dead Zones" / Loss of Biodiversity & Bioaccumulation / Breakdown of Natural Filtration / Economic Losses & Public Health Risks.]
 
 *Detailed Systems Thinking Map (Attach the image file from the /research_system directory):*
 ![Systems Thinking Diagram](research_system/[team_image_filename].png)
