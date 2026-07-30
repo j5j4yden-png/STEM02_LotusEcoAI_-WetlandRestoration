@@ -65,7 +65,7 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 ---
 
 ## 💡 3. STARTUP ARCHITECTURE & BUSINESS MODEL
-* **Target Customers:** [e.g., Municipal urban management boards, educational institutions, or residential community boards].
+* **Target Customers:** [Environmental Protection Agencies (EPAs), Municipal Water & Sanitation Boards, Industrial Park Compliance Management, and Agricultural Land Coalitions.].
 * **Startup's Core Solution:** [Briefly describe how your product/service operates to mitigate the problem stated above].
 * **Core Technology Stack (Check all applicable technologies):**
   * [ ] **AI Vision (Computer Vision):** [e.g., Real-time traffic density recognition via smart camera feeds]
