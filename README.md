@@ -66,7 +66,9 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 
 ## 💡 3. STARTUP ARCHITECTURE & BUSINESS MODEL
 * **Target Customers:** [Agricultural Enterprise Groups & Farm Cooperatives, Municipalities & Regional Water Management Boards, Industrial & Resource Extraction Operations, Environmental Agencies & Conservation NGOs.].
+  
 * **Startup's Core Solution:** [Lotus EcoAI provides an autonomous, end-to-end water remediation platform centered around the AquaThrive-ASV (Autonomous Surface Vessel). The catamarans are deployed directly into wetland edges, farm canals, and runoff basins. Using dual computer vision cameras and edge-AI, the vessels autonomously navigate shallow waterways to intercept liquid chemical pollutants, excess agricultural nutrients, micro-sediments, and toxic algal blooms before they destroy delicate aquatic ecosystems. Water is drawn through a multi-stage internal filtration system featuring microbial woodchip denitrification, steel-slag phosphorus complexation, and biochar adsorption, while onboard micro-bubble diffusers actively re-oxygenate hypoxic "dead zones."]
+
 * **Core Technology Stack (Check all applicable technologies):**
   * [/] **AI Vision (Computer Vision):** [Onboard Dual-Camera Array that uses real-time computer vision to detect surface algal blooms, water color shifts (turbidity), floating debris, and obstacles in shallow waters.]
   * [/] **Robotics/UAVs & Actuators:** [Shallow-Draft Propulsion & Actuated Intake. Twin low-noise electric thrusters with omnidirectional vectoring allow navigation in as little as 10 cm of water without disturbing benthic soil. Actuated internal intake valves adjust water intake speed based on boat velocity.]
