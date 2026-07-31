@@ -54,10 +54,10 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 
 ---
 ## ⚠️ 2. PROBLEM STATEMENT & SYSTEMS THINKING ANALYSIS
-* **Core Problem Statement:** [Degradation and loss of function in wetland ecosystems caused by severe water pollution.].
+* **Core Problem Statement:** [Agricultural runoff (nutrient over-enrichment and sedimentation from surrounding land use) is systematically degrading wetland ecosystems. This nonpoint source pollution overwhelms the natural filtration capacities of wetlands, leading to severe biodiversity loss, water quality deterioration, and the breakdown of vital ecological services.].
 * **Cause-and-Effect Deep Dive:**
-  * *Root Causes:* [Aricultural runoff containing excess nitrogen and phosphorus from synthetic fertilizers / Industrial discharge of untreated wastewater containing heavy metals and synthetic chemicals / Urban stormwater runoff sweeping petroleum, heavy metals, road salts, and trash into tributaries / Inadequate sewage infrastructure leading to raw sewage overflows, septic failures, and direct trash dumping.]
-  * *Direct Consequences:* [Eutrophication & "Dead Zones" / Loss of Biodiversity & Bioaccumulation / Breakdown of Natural Filtration / Economic Losses & Public Health Risks.]
+  * *Root Causes:* [Intensive Fertilizer Usage / Unsustainable Land Management / Loss of Vegetative Buffer Zones / Policy and Water Governance Gaps.]
+  * *Direct Consequences:* [Severe Eutrophication / Widespread Hypoxia / Habitat Destruction via Sedimentation / Toxicity and Bioaccumulation.]
 
 *Detailed Systems Thinking Map (Attach the image file from the /research_system directory):*
 ![Systems Thinking Diagram](research_system/[team_image_filename].png)
