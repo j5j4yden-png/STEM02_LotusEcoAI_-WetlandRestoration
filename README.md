@@ -88,9 +88,9 @@ By 2045, modern metropolitan areas operate on a closed-loop, bio-digital infrast
 
 ## 🧠 5. REFLECTION & KNOWLEDGE DISCOVERY
 Following a 3-week journey of intensive co-creation, our founding team has distilled the following key insights:
-* **We discovered that:** [Insert a unique core insight or newly uncovered perspective regarding the problem that challenged your initial assumptions].
-* **We learned that:** [Insert the most profound takeaway regarding the synergy between Technology and Humanity, or high-performance teamwork dynamics].
-* **Our most unique innovation/competitive edge is:** [Insert the distinct value proposition that sets your startup apart from existing market alternatives].
+* **We discovered that:** [Agricultural runoff is a broken supply chain, not just a pollution problem.].
+* **We learned that:** [Tech succeeds only when ecological health aligns with economic self-interest.].
+* **Our most unique innovation/competitive edge is:** [Active chemical remediation paired with a circular "Filter-as-a-Service" model.].
 
 ---
 
