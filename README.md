@@ -36,19 +36,19 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 * **Class:** [STEM.02.26]
 
 ### 👥 Co-Founding Team (5 Core Roles - 5 Pillars of Synergy)
-1. **[Student 1 Full Name]** - **CEO (Chief Strategist):**
+1. **[Do Le Thuc Linh]** - **CEO (Chief Strategist):**
 * **Identity Image / Profile Picture:** [Insert CEO's profile picture or avatar here, or use markdown: ![CEO Name](image_url)]
 * **Responsibilities:** [e.g., Coordinating the team, conducting market research, and making final executive decisions.]
-2. **[Student 2 Full Name]** - **Social Researcher:**
+2. **[Le Minh Kiet]** - **Social Researcher:**
 * **Identity Image / Profile Picture:** [Insert Social Researcher's profile picture or avatar here, or use markdown: ![Researcher Name](image_url)]
 * **Responsibilities:** [e.g., Gathering statistical data, mapping customer pain points, and identifying community needs.]
-3. **[Student 3 Full Name]** - **Technology Architect:**
+3. **[Hoang Nguyen Phuc Nguyen]** - **Technology Architect:**
 * **Identity Image / Profile Picture:** [Insert Technology Architect's profile picture or avatar here, or use markdown: ![Architect Name](image_url)]
 * **Responsibilities:** [e.g., Designing and executing the technical architecture (AI, Robotics, Drones, IoT, etc.).]
-4. **[Đỗ Lê Thục Linh]** - **UX/Experience Designer:**
+4. **[Pham Nhuong Duy Anh]** - **UX/Experience Designer:**
 * **Identity Image / Profile Picture:** [Insert UX Designer's profile picture or avatar here, or use markdown: ![Designer Name](image_url)]
 * **Responsibilities:** [e.g., In charge of conceptual drawings, application user interfaces, and slide deck visualization.]
-5. **[Student 5 Full Name]** - **Venture Investor:**
+5. **[Do Hong An]** - **Venture Investor:**
 * **Identity Image / Profile Picture:** [Insert Venture Investor's profile picture or avatar here, or use markdown: ![Investor Name](image_url)]
 * **Responsibilities:** [e.g., Evaluating feasibility, conducting cost-benefit analyses, and constructing the business model.]
 
