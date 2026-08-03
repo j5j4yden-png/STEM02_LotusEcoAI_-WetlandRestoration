@@ -60,7 +60,7 @@ Welcome, young founding teams, to your final Capstone Project repository and man
   * *Direct Consequences:* [Severe Eutrophication / Widespread Hypoxia / Habitat Destruction via Sedimentation / Toxicity and Bioaccumulation.]
 
 *Detailed Systems Thinking Map (Attach the image file from the /research_system directory):*
-![Systems Thinking Diagram](research_system/[team_image_filename].png)
+![Systems Thinking Diagram](research_system/Causes-effects system diagram.png)
 
 ---
 
