@@ -82,7 +82,7 @@ By 2045, modern metropolitan areas operate on a closed-loop, bio-digital infrast
 
 
 *Team's Conceptual Drawing (Attach the image file from the /design_visuals directory):*
-![Smart Society Visual 2045](design_visuals/[conceptual_drawing_filename].png)
+![Smart Society Visual 2045](design_visuals/Lotus EcoAI’s Conceptual Drawing of 20245 SMART CITY.png)
 
 ---
 
